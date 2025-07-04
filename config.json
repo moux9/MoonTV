@@ -73,6 +73,10 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+    "rrys": {
+      "api": "http://43.154.198.47:8282/gather/json",
+      "name": "人人影视"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
