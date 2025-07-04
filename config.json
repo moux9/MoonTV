@@ -5,6 +5,12 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
+    },
+    "huohua": {
+      "api": "https://cj.huohua.live/api.php/provide/vod/?uid=4038",
+      "name": "火花",
+      "detail": "https://cj.huohua.live/"
+    }
     }
   }
 }
